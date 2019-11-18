@@ -1,0 +1,25 @@
+{
+  "name": "zxclick",
+  "version": "1.0.1",
+  "description": "智业健康专项点击",
+  "main": "lib/fastclick.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zyl123456/zxclick.git"
+  },
+  "keywords": [
+    "zxclick"
+  ],
+  "author": "zhengyanling",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zyl123456/zxclick/issues"
+  },
+  "homepage": "https://github.com/zyl123456/zxclick#readme",
+  "directories": {
+    "lib": "lib"
+  }
+}
